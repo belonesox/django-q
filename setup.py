@@ -17,7 +17,7 @@ install_requires = \
 ['arrow>=1.1.0,<2.0.0',
  'blessed>=1.17.6,<2.0.0',
  'django-picklefield>=3.0.1,<4.0.0',
- 'django>=2.2']
+ 'django>=2.2,<4.0.0']
 
 extras_require = \
 {'rollbar': ['django-q-rollbar>=0.1'],
